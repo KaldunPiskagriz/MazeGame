@@ -7,7 +7,7 @@ Animatable::Animatable(unsigned xArg, unsigned yArg, std::string file, float spe
 	: x(xArg), y(yArg), speed(speedArg){
 	
 	Loader* engineLoader = Loader::GetInstance();
-	file.ends_with(".enc") ? engineLoader->LoadTextureFromEncrypted(file, &texture) : engineLoader->LoadTexture(file, &texture);
+	engineLoader->LoadTexture(file, &texture);
 	framesNumber = texture.getSize().y / yArg;
 	sprite.setTexture(texture);
 	sprite.setTextureRect(sf::IntRect(0, 0, x, y));

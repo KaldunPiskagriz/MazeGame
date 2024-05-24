@@ -1,4 +1,6 @@
-﻿  Main.cpp
+﻿  Animatable.cpp
+  SoundPad.cpp
+  Main.cpp
 C:\Users\user\source\repos\MazeGame2\MazeGame2\engine\SimpleGameObject.h(36,53): warning C4244: =: преобразование "const T" в "float", возможна потеря данных
 C:\Users\user\source\repos\MazeGame2\MazeGame2\engine\SimpleGameObject.h(36,53): warning C4244:         with
 C:\Users\user\source\repos\MazeGame2\MazeGame2\engine\SimpleGameObject.h(36,53): warning C4244:         [
@@ -177,4 +179,228 @@ C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp
 C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\Victory\VictoryScreen.hpp(22,96): warning C4305: аргумент: усечение из "double" в "float"
   (компиляция исходного файла "Main.cpp")
   
+  GameScene.cpp
+C:\Users\user\source\repos\MazeGame2\MazeGame2\engine\SimpleGameObject.h(36,53): warning C4244: =: преобразование "const T" в "float", возможна потеря данных
+C:\Users\user\source\repos\MazeGame2\MazeGame2\engine\SimpleGameObject.h(36,53): warning C4244:         with
+C:\Users\user\source\repos\MazeGame2\MazeGame2\engine\SimpleGameObject.h(36,53): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\engine\SimpleGameObject.h(36,53): warning C4244:             T=int
+C:\Users\user\source\repos\MazeGame2\MazeGame2\engine\SimpleGameObject.h(36,53): warning C4244:         ]
+  (компиляция исходного файла "scenes/game/Classic/GameScene.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\engine\SimpleGameObject.h(36,64): warning C4244: =: преобразование "const T" в "float", возможна потеря данных
+C:\Users\user\source\repos\MazeGame2\MazeGame2\engine\SimpleGameObject.h(36,64): warning C4244:         with
+C:\Users\user\source\repos\MazeGame2\MazeGame2\engine\SimpleGameObject.h(36,64): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\engine\SimpleGameObject.h(36,64): warning C4244:             T=int
+C:\Users\user\source\repos\MazeGame2\MazeGame2\engine\SimpleGameObject.h(36,64): warning C4244:         ]
+  (компиляция исходного файла "scenes/game/Classic/GameScene.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\engine\GlobalAssetManager.hpp(28,35): warning C4101: e: неиспользованная локальная переменная
+  (компиляция исходного файла "scenes/game/Classic/GameScene.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\SceneWithFade.hpp(11,52): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\SceneWithFade.hpp(11,52): warning C4244:         with
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\SceneWithFade.hpp(11,52): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\SceneWithFade.hpp(11,52): warning C4244:             T=float
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\SceneWithFade.hpp(11,52): warning C4244:         ]
+  (компиляция исходного файла "scenes/game/Classic/GameScene.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\SceneWithFade.hpp(11,39): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\SceneWithFade.hpp(11,39): warning C4244:         with
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\SceneWithFade.hpp(11,39): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\SceneWithFade.hpp(11,39): warning C4244:             T=float
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\SceneWithFade.hpp(11,39): warning C4244:         ]
+  (компиляция исходного файла "scenes/game/Classic/GameScene.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\EulerGeneration\Euler.hpp(93,15): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "scenes/game/Classic/GameScene.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\EulerGeneration\Euler.hpp(94,18): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "scenes/game/Classic/GameScene.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,65): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,65): warning C4244:         with
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,65): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,65): warning C4244:             T=int
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,65): warning C4244:         ]
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,65): warning C4244:         and
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,65): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,65): warning C4244:             T=float
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,65): warning C4244:         ]
+  (компиляция исходного файла "scenes/game/Classic/GameScene.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,56): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,56): warning C4244:         with
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,56): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,56): warning C4244:             T=int
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,56): warning C4244:         ]
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,56): warning C4244:         and
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,56): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,56): warning C4244:             T=float
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,56): warning C4244:         ]
+  (компиляция исходного файла "scenes/game/Classic/GameScene.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,68): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,68): warning C4244:         with
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,68): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,68): warning C4244:             T=int
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,68): warning C4244:         ]
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,68): warning C4244:         and
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,68): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,68): warning C4244:             T=float
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,68): warning C4244:         ]
+  (компиляция исходного файла "scenes/game/Classic/GameScene.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,58): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,58): warning C4244:         with
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,58): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,58): warning C4244:             T=int
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,58): warning C4244:         ]
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,58): warning C4244:         and
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,58): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,58): warning C4244:             T=float
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,58): warning C4244:         ]
+  (компиляция исходного файла "scenes/game/Classic/GameScene.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(25,77): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(25,77): warning C4244:         with
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(25,77): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(25,77): warning C4244:             T=float
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(25,77): warning C4244:         ]
+  (компиляция исходного файла "scenes/game/Classic/GameScene.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(25,57): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(25,57): warning C4244:         with
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(25,57): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(25,57): warning C4244:             T=float
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(25,57): warning C4244:         ]
+  (компиляция исходного файла "scenes/game/Classic/GameScene.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(52,87): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "scenes/game/Classic/GameScene.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(52,33): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "scenes/game/Classic/GameScene.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(65,19): warning C4244: инициализация: преобразование "_Rep" в "unsigned int", возможна потеря данных
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(65,19): warning C4244:         with
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(65,19): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(65,19): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(65,19): warning C4244:         ]
+  (компиляция исходного файла "scenes/game/Classic/GameScene.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(68,113): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "scenes/game/Classic/GameScene.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(79,15): warning C4244: =: преобразование "float" в "sf::Uint8", возможна потеря данных
+  (компиляция исходного файла "scenes/game/Classic/GameScene.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(92,26): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(92,26): warning C4244:         with
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(92,26): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(92,26): warning C4244:             T=float
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(92,26): warning C4244:         ]
+  (компиляция исходного файла "scenes/game/Classic/GameScene.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(97,52): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(97,52): warning C4244:         with
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(97,52): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(97,52): warning C4244:             T=float
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(97,52): warning C4244:         ]
+  (компиляция исходного файла "scenes/game/Classic/GameScene.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(104,26): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(104,26): warning C4244:         with
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(104,26): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(104,26): warning C4244:             T=float
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(104,26): warning C4244:         ]
+  (компиляция исходного файла "scenes/game/Classic/GameScene.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(109,52): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(109,52): warning C4244:         with
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(109,52): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(109,52): warning C4244:             T=float
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(109,52): warning C4244:         ]
+  (компиляция исходного файла "scenes/game/Classic/GameScene.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(165,85): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "scenes/game/Classic/GameScene.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(168,85): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "scenes/game/Classic/GameScene.cpp")
+  
+  Создание кода...
+sfml-graphics-s-d.lib(Transformable.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(Transformable.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(Texture.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(Texture.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(RenderTarget.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(RenderTarget.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(Sprite.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(Sprite.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(RenderStates.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(RenderStates.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(Font.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(Font.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(Text.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(Text.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(Color.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(Color.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(Shape.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(Shape.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(RectangleShape.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(RectangleShape.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(RenderWindow.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(RenderWindow.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(VertexArray.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(VertexArray.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(Transform.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(Transform.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(Image.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(Image.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(GLExtensions.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(GLExtensions.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(GLCheck.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(GLCheck.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(TextureSaver.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(TextureSaver.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(View.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(View.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(BlendMode.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(BlendMode.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(Vertex.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(Vertex.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(Shader.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(Shader.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(VertexBuffer.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(VertexBuffer.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(RenderTextureImplFBO.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(RenderTextureImplFBO.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(ImageLoader.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(ImageLoader.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(Glsl.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(Glsl.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(RenderTextureImpl.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(RenderTextureImpl.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-window-s-d.lib(VideoMode.obj) : warning LNK4099: "" PDB не найден с "sfml-window-s-d.lib(VideoMode.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-window-s-d.lib(WindowBase.obj) : warning LNK4099: "" PDB не найден с "sfml-window-s-d.lib(WindowBase.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-window-s-d.lib(Window.obj) : warning LNK4099: "" PDB не найден с "sfml-window-s-d.lib(Window.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-window-s-d.lib(GlResource.obj) : warning LNK4099: "" PDB не найден с "sfml-window-s-d.lib(GlResource.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-window-s-d.lib(Context.obj) : warning LNK4099: "" PDB не найден с "sfml-window-s-d.lib(Context.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-window-s-d.lib(VideoModeImpl.obj) : warning LNK4099: "" PDB не найден с "sfml-window-s-d.lib(VideoModeImpl.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-window-s-d.lib(Cursor.obj) : warning LNK4099: "" PDB не найден с "sfml-window-s-d.lib(Cursor.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-window-s-d.lib(WindowImpl.obj) : warning LNK4099: "" PDB не найден с "sfml-window-s-d.lib(WindowImpl.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-window-s-d.lib(GlContext.obj) : warning LNK4099: "" PDB не найден с "sfml-window-s-d.lib(GlContext.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-window-s-d.lib(CursorImpl.obj) : warning LNK4099: "" PDB не найден с "sfml-window-s-d.lib(CursorImpl.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-window-s-d.lib(JoystickManager.obj) : warning LNK4099: "" PDB не найден с "sfml-window-s-d.lib(JoystickManager.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-window-s-d.lib(SensorManager.obj) : warning LNK4099: "" PDB не найден с "sfml-window-s-d.lib(SensorManager.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-window-s-d.lib(WindowImplWin32.obj) : warning LNK4099: "" PDB не найден с "sfml-window-s-d.lib(WindowImplWin32.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-window-s-d.lib(VulkanImplWin32.obj) : warning LNK4099: "" PDB не найден с "sfml-window-s-d.lib(VulkanImplWin32.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-window-s-d.lib(WglContext.obj) : warning LNK4099: "" PDB не найден с "sfml-window-s-d.lib(WglContext.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-window-s-d.lib(Joystick.obj) : warning LNK4099: "" PDB не найден с "sfml-window-s-d.lib(Joystick.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-window-s-d.lib(JoystickImpl.obj) : warning LNK4099: "" PDB не найден с "sfml-window-s-d.lib(JoystickImpl.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-window-s-d.lib(SensorImpl.obj) : warning LNK4099: "" PDB не найден с "sfml-window-s-d.lib(SensorImpl.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-system-s-d.lib(String.obj) : warning LNK4099: "" PDB не найден с "sfml-system-s-d.lib(String.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-system-s-d.lib(Mutex.obj) : warning LNK4099: "" PDB не найден с "sfml-system-s-d.lib(Mutex.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-system-s-d.lib(Lock.obj) : warning LNK4099: "" PDB не найден с "sfml-system-s-d.lib(Lock.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-system-s-d.lib(Err.obj) : warning LNK4099: "" PDB не найден с "sfml-system-s-d.lib(Err.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-system-s-d.lib(Time.obj) : warning LNK4099: "" PDB не найден с "sfml-system-s-d.lib(Time.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-system-s-d.lib(Clock.obj) : warning LNK4099: "" PDB не найден с "sfml-system-s-d.lib(Clock.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-system-s-d.lib(Sleep.obj) : warning LNK4099: "" PDB не найден с "sfml-system-s-d.lib(Sleep.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-system-s-d.lib(ThreadLocal.obj) : warning LNK4099: "" PDB не найден с "sfml-system-s-d.lib(ThreadLocal.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-system-s-d.lib(MutexImpl.obj) : warning LNK4099: "" PDB не найден с "sfml-system-s-d.lib(MutexImpl.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-system-s-d.lib(ClockImpl.obj) : warning LNK4099: "" PDB не найден с "sfml-system-s-d.lib(ClockImpl.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-system-s-d.lib(SleepImpl.obj) : warning LNK4099: "" PDB не найден с "sfml-system-s-d.lib(SleepImpl.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-system-s-d.lib(ThreadLocalImpl.obj) : warning LNK4099: "" PDB не найден с "sfml-system-s-d.lib(ThreadLocalImpl.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-audio-s-d.lib(SoundBuffer.obj) : warning LNK4099: "" PDB не найден с "sfml-audio-s-d.lib(SoundBuffer.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-audio-s-d.lib(Sound.obj) : warning LNK4099: "" PDB не найден с "sfml-audio-s-d.lib(Sound.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-audio-s-d.lib(AlResource.obj) : warning LNK4099: "" PDB не найден с "sfml-audio-s-d.lib(AlResource.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-audio-s-d.lib(InputSoundFile.obj) : warning LNK4099: "" PDB не найден с "sfml-audio-s-d.lib(InputSoundFile.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-audio-s-d.lib(OutputSoundFile.obj) : warning LNK4099: "" PDB не найден с "sfml-audio-s-d.lib(OutputSoundFile.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-audio-s-d.lib(AudioDevice.obj) : warning LNK4099: "" PDB не найден с "sfml-audio-s-d.lib(AudioDevice.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-audio-s-d.lib(ALCheck.obj) : warning LNK4099: "" PDB не найден с "sfml-audio-s-d.lib(ALCheck.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-audio-s-d.lib(SoundSource.obj) : warning LNK4099: "" PDB не найден с "sfml-audio-s-d.lib(SoundSource.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-audio-s-d.lib(SoundFileFactory.obj) : warning LNK4099: "" PDB не найден с "sfml-audio-s-d.lib(SoundFileFactory.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-audio-s-d.lib(SoundFileReaderFlac.obj) : warning LNK4099: "" PDB не найден с "sfml-audio-s-d.lib(SoundFileReaderFlac.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-audio-s-d.lib(SoundFileWriterFlac.obj) : warning LNK4099: "" PDB не найден с "sfml-audio-s-d.lib(SoundFileWriterFlac.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-audio-s-d.lib(SoundFileReaderMp3.obj) : warning LNK4099: "" PDB не найден с "sfml-audio-s-d.lib(SoundFileReaderMp3.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-audio-s-d.lib(SoundFileReaderOgg.obj) : warning LNK4099: "" PDB не найден с "sfml-audio-s-d.lib(SoundFileReaderOgg.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-audio-s-d.lib(SoundFileWriterOgg.obj) : warning LNK4099: "" PDB не найден с "sfml-audio-s-d.lib(SoundFileWriterOgg.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-audio-s-d.lib(SoundFileReaderWav.obj) : warning LNK4099: "" PDB не найден с "sfml-audio-s-d.lib(SoundFileReaderWav.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-audio-s-d.lib(SoundFileWriterWav.obj) : warning LNK4099: "" PDB не найден с "sfml-audio-s-d.lib(SoundFileWriterWav.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-system-s-d.lib(FileInputStream.obj) : warning LNK4099: "" PDB не найден с "sfml-system-s-d.lib(FileInputStream.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-system-s-d.lib(MemoryInputStream.obj) : warning LNK4099: "" PDB не найден с "sfml-system-s-d.lib(MemoryInputStream.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
   MazeGame2.vcxproj -> C:\Users\user\source\repos\MazeGame2\x64\Debug\MazeGame2.exe

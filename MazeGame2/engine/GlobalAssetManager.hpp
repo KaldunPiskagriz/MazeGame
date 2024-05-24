@@ -18,7 +18,7 @@ public:
 	void AddTexture(std::string name, std::string filename) { 
 		Loader* loader = Loader::GetInstance();
 		std::lock_guard guard(mutex);
-		filename.ends_with(".enc") ? loader->LoadTextureFromEncrypted(filename, textures[name]) : loader->LoadTexture(filename, textures[name]);
+		loader->LoadTexture(filename, textures[name]);
 	}
 
 	sf::Texture* GetTexture(std::string name) { 
