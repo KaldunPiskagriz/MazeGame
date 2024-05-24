@@ -1,0 +1,180 @@
+﻿  Main.cpp
+C:\Users\user\source\repos\MazeGame2\MazeGame2\engine\SimpleGameObject.h(36,53): warning C4244: =: преобразование "const T" в "float", возможна потеря данных
+C:\Users\user\source\repos\MazeGame2\MazeGame2\engine\SimpleGameObject.h(36,53): warning C4244:         with
+C:\Users\user\source\repos\MazeGame2\MazeGame2\engine\SimpleGameObject.h(36,53): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\engine\SimpleGameObject.h(36,53): warning C4244:             T=int
+C:\Users\user\source\repos\MazeGame2\MazeGame2\engine\SimpleGameObject.h(36,53): warning C4244:         ]
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\engine\SimpleGameObject.h(36,64): warning C4244: =: преобразование "const T" в "float", возможна потеря данных
+C:\Users\user\source\repos\MazeGame2\MazeGame2\engine\SimpleGameObject.h(36,64): warning C4244:         with
+C:\Users\user\source\repos\MazeGame2\MazeGame2\engine\SimpleGameObject.h(36,64): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\engine\SimpleGameObject.h(36,64): warning C4244:             T=int
+C:\Users\user\source\repos\MazeGame2\MazeGame2\engine\SimpleGameObject.h(36,64): warning C4244:         ]
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\engine\GlobalAssetManager.hpp(28,35): warning C4101: e: неиспользованная локальная переменная
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\SceneWithFade.hpp(11,52): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\SceneWithFade.hpp(11,52): warning C4244:         with
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\SceneWithFade.hpp(11,52): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\SceneWithFade.hpp(11,52): warning C4244:             T=float
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\SceneWithFade.hpp(11,52): warning C4244:         ]
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\SceneWithFade.hpp(11,39): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\SceneWithFade.hpp(11,39): warning C4244:         with
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\SceneWithFade.hpp(11,39): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\SceneWithFade.hpp(11,39): warning C4244:             T=float
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\SceneWithFade.hpp(11,39): warning C4244:         ]
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\mainMenu\MainMenuScene.hpp(16,82): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\mainMenu\MainMenuScene.hpp(16,33): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\mainMenu\MainMenuScene.hpp(19,80): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\mainMenu\MainMenuScene.hpp(19,33): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\mainMenu\MainMenuScene.hpp(22,82): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\mainMenu\MainMenuScene.hpp(22,34): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\selectGameMode\SelectGameMode.hpp(16,82): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\selectGameMode\SelectGameMode.hpp(16,33): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\selectGameMode\SelectGameMode.hpp(19,86): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\EulerGeneration\Euler.hpp(93,15): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\EulerGeneration\Euler.hpp(94,18): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,65): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,65): warning C4244:         with
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,65): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,65): warning C4244:             T=int
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,65): warning C4244:         ]
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,65): warning C4244:         and
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,65): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,65): warning C4244:             T=float
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,65): warning C4244:         ]
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,56): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,56): warning C4244:         with
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,56): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,56): warning C4244:             T=int
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,56): warning C4244:         ]
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,56): warning C4244:         and
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,56): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,56): warning C4244:             T=float
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(29,56): warning C4244:         ]
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,68): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,68): warning C4244:         with
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,68): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,68): warning C4244:             T=int
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,68): warning C4244:         ]
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,68): warning C4244:         and
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,68): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,68): warning C4244:             T=float
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,68): warning C4244:         ]
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,58): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,58): warning C4244:         with
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,58): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,58): warning C4244:             T=int
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,58): warning C4244:         ]
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,58): warning C4244:         and
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,58): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,58): warning C4244:             T=float
+C:\Users\user\source\repos\MazeGame2\MazeGame2\maze\MazeMap.hpp(30,58): warning C4244:         ]
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(25,77): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(25,77): warning C4244:         with
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(25,77): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(25,77): warning C4244:             T=float
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(25,77): warning C4244:         ]
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(25,57): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(25,57): warning C4244:         with
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(25,57): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(25,57): warning C4244:             T=float
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(25,57): warning C4244:         ]
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(52,87): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(52,33): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(65,19): warning C4244: инициализация: преобразование "_Rep" в "unsigned int", возможна потеря данных
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(65,19): warning C4244:         with
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(65,19): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(65,19): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(65,19): warning C4244:         ]
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(68,113): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(79,15): warning C4244: =: преобразование "float" в "sf::Uint8", возможна потеря данных
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(92,26): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(92,26): warning C4244:         with
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(92,26): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(92,26): warning C4244:             T=float
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(92,26): warning C4244:         ]
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(97,52): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(97,52): warning C4244:         with
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(97,52): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(97,52): warning C4244:             T=float
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(97,52): warning C4244:         ]
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(104,26): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(104,26): warning C4244:         with
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(104,26): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(104,26): warning C4244:             T=float
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(104,26): warning C4244:         ]
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(109,52): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(109,52): warning C4244:         with
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(109,52): warning C4244:         [
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(109,52): warning C4244:             T=float
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(109,52): warning C4244:         ]
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(165,85): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\game\Classic\GameScene.hpp(168,85): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\user\source\repos\MazeGame2\MazeGame2\scenes\Victory\VictoryScreen.hpp(22,96): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "Main.cpp")
+  
+  MazeGame2.vcxproj -> C:\Users\user\source\repos\MazeGame2\x64\Debug\MazeGame2.exe
